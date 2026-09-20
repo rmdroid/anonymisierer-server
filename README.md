@@ -168,4 +168,4 @@ Erweiterung zum gewählten Port passt.
 ## Unterstützung
 
 Für Sicherheitsfragebögen, Auftragsverarbeitungsverträge oder eine Teststellung:
-**bestellung@ki-anonymisierer.de**
+**rm@kostenmanager.net**

@@ -1,7 +1,5 @@
 # Endnutzer-Lizenzvertrag
 
-**Entwurf. Vor Veröffentlichung anwaltlich prüfen lassen.**
-
 KI-Anonymisierer Server · Robert Meyer · ki-anonymisierer.de
 
 Mit dem Herunterladen, Installieren oder Verwenden der Software erkennen Sie
@@ -33,7 +31,7 @@ Eine kostenpflichtige Lizenz ist erforderlich, sobald
 Die Lizenz wird als signierter Schlüssel ausgeliefert und gilt für die darin
 genannte Zahl an Arbeitsplätzen und den darin genannten Zeitraum.
 
-Bestellung: **bestellung@ki-anonymisierer.de**
+Bestellung: **rm@kostenmanager.net**
 
 ## 4. Umfang der Rechte
 
@@ -96,7 +94,13 @@ Der Vertrag läuft auf unbestimmte Zeit, befristete Lizenzen für den darin
 genannten Zeitraum. Bei erheblichen Verstößen gegen Abschnitt 5 kann der
 Anbieter die Lizenz außerordentlich kündigen.
 
-## 11. Schlussbestimmungen
+## 11. Anbieter
+
+Robert Meyer
+rm@kostenmanager.net
+https://ki-anonymisierer.de
+
+## 12. Schlussbestimmungen
 
 Es gilt deutsches Recht. Ist der Nutzer Kaufmann, juristische Person des
 öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen, ist
@@ -106,4 +110,4 @@ Ist eine Bestimmung unwirksam, bleibt der übrige Vertrag wirksam.
 
 ---
 
-Stand: September 2026
+Stand: September 2026 · Fassung 1.0

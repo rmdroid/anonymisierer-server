@@ -13,7 +13,7 @@ denselben Server zugreifen oder der Windows-Agent im Mehrbenutzerbetrieb läuft.
 
 ## Bestellung
 
-**bestellung@ki-anonymisierer.de**
+**rm@kostenmanager.net**
 
 Bitte geben Sie an:
 
@@ -54,4 +54,4 @@ es werden keine Daten übertragen.
 ## Fragen vorab
 
 Für Sicherheitsfragebögen, Auftragsverarbeitungsverträge oder eine
-Teststellung: **bestellung@ki-anonymisierer.de**
+Teststellung: **rm@kostenmanager.net**
