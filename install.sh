@@ -62,10 +62,25 @@ if [ -z "$CHOICE" ]; then
 fi
 CHOICE="${CHOICE:-2}"
 
+# Das Modell belegt beim Laden gut 2 GB. Ein zu knappes Limit laesst den
+# Container beim Start abbrechen (Exit 137), ohne verstaendliche Meldung.
 if [ "$CHOICE" = "1" ]; then
-  TAG="latest"; ENGINES="regex"
+  TAG="latest"; ENGINES="regex";        MEM_DEFAULT="512M"
 else
-  TAG="gliner";  ENGINES="regex,gliner"
+  TAG="gliner";  ENGINES="regex,gliner"; MEM_DEFAULT="6G"
+fi
+MEMORY="${MEMORY:-$MEM_DEFAULT}"
+
+if [ "$CHOICE" != "1" ]; then
+  TOTAL=$(docker info --format '{{.MemTotal}}' 2>/dev/null || echo 0)
+  if [ "$TOTAL" -gt 0 ] && [ "$TOTAL" -lt 4000000000 ]; then
+    warn ""
+    warn "  Docker stehen nur $((TOTAL/1024/1024/1024)) GB zur Verfuegung."
+    warn "  Die Modellvariante braucht gut 2 GB allein zum Laden."
+    warn "  In Docker Desktop unter Settings > Resources mehr zuteilen,"
+    warn "  oder mit Auswahl 1 ohne Modell starten."
+    warn ""
+  fi
 fi
 
 # ---------------------------------------------------------------- Einrichten
@@ -99,7 +114,7 @@ services:
     deploy:
       resources:
         limits:
-          memory: ${MEMORY:-2G}
+          memory: ${MEMORY}
 
 volumes:
   models:
