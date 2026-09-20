@@ -114,6 +114,26 @@ Einzelheiten in [EULA.md](EULA.md), Bestellung über
 
 Der Schlüssel wird lokal geprüft. Keine Onlineaktivierung, keine Übertragung.
 
+### Mehrbenutzerbetrieb einschalten
+
+Der Schlüssel allein gibt den Netzwerkzugang noch nicht frei — er berechtigt
+dazu. Freigeschaltet wird mit:
+
+```bash
+cd ~/ki-anonymisierer
+curl -fsSL https://raw.githubusercontent.com/rmdroid/anonymisierer-server/main/enable-network.sh | bash
+```
+
+Das Skript prüft den Schlüssel, erzeugt einen Zugriffsschlüssel, gibt den Port
+im Netzwerk frei und startet neu. Am Ende nennt es die Adresse und den
+Zugriffsschlüssel für die Arbeitsplätze.
+
+Rückgängig mit den Sicherungskopien, die das Skript anlegt:
+
+```bash
+cp .env.bak .env && cp docker-compose.yml.bak docker-compose.yml && docker compose up -d
+```
+
 ## Betrieb
 
 ```bash
