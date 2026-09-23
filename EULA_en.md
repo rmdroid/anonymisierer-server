@@ -2,7 +2,7 @@
 
 **KI-Anonymisierer Server and KI-Anonymisierer Windows Client**  
 Licensor: Robert Meyer, c/o Online-Impressum.de #4759, Europaring 90, 53757 Sankt Augustin, Germany, email: rm@kostenmanager.net (“Licensor”)  
-Last updated: September 2026 · Version 1.1
+Last updated: September 2026 · Version 1.2
 
 *This English version is provided for convenience. In case of doubt, the German version prevails.*
 
@@ -88,11 +88,15 @@ The image contains third-party software under its respective licenses, including
 
 ## 13. Liability
 
-13.1 The Licensor is liable without limitation for intent and gross negligence, for damage resulting from injury to life, body or health, and under the German Product Liability Act.
+13.1 The Licensor is liable without limitation for intent and gross negligence, for damage resulting from injury to life, body or health, for fraudulently concealed defects and under the German Product Liability Act.
 
 13.2 In cases of simple negligence, the Licensor is only liable for breaches of essential contractual obligations, limited to the typical, foreseeable damage.
 
-13.3 Otherwise, liability is excluded, in particular for damage arising because results were shared without the review required under section 11.2. These limitations also apply in favor of the Licensor’s vicarious agents.
+13.3 Towards businesses, legal entities under public law and special funds under public law, liability under section 13.2 is limited in amount to the license fee the Licensee has paid for the affected license. For fixed-term licenses, this is the fee for the twelve months preceding the event causing the damage; for perpetual licenses, the one-time license fee.
+
+13.4 For free use under section 2, the Licensor is only liable for intent, gross negligence and fraudulently concealed defects. Section 13.1 remains unaffected.
+
+13.5 Otherwise, liability is excluded, in particular for damage arising because results were shared without the review required under section 11.2. These limitations also apply in favor of the Licensor’s vicarious agents.
 
 ## 14. Termination
 

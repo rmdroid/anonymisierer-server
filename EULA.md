@@ -2,7 +2,7 @@
 
 **KI-Anonymisierer Server und KI-Anonymisierer Windows-Client**  
 Lizenzgeber: Robert Meyer, c/o Online-Impressum.de #4759, Europaring 90, 53757 Sankt Augustin, Deutschland, E-Mail: rm@kostenmanager.net (nachfolgend „Lizenzgeber“)  
-Stand: September 2026 · Fassung 1.1
+Stand: September 2026 · Fassung 1.2
 
 ## 1. Geltungsbereich und Vertragsgegenstand
 
@@ -86,11 +86,15 @@ Das Abbild enthält Software Dritter unter deren jeweiligen Lizenzen, darunter d
 
 ## 13. Haftung
 
-13.1 Der Lizenzgeber haftet unbeschränkt für Vorsatz und grobe Fahrlässigkeit, für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit sowie nach dem Produkthaftungsgesetz.
+13.1 Der Lizenzgeber haftet unbeschränkt für Vorsatz und grobe Fahrlässigkeit, für Schäden aus der Verletzung des Lebens, des Körpers oder der Gesundheit, bei arglistig verschwiegenen Mängeln sowie nach dem Produkthaftungsgesetz.
 
 13.2 Bei einfacher Fahrlässigkeit haftet der Lizenzgeber nur für die Verletzung wesentlicher Vertragspflichten, begrenzt auf den vertragstypischen, vorhersehbaren Schaden.
 
-13.3 Im Übrigen ist die Haftung ausgeschlossen, insbesondere für Schäden, die entstehen, weil Ergebnisse ohne die nach Ziffer 11.2 geschuldete Prüfung weitergegeben wurden. Die Haftungsbeschränkungen gelten auch zugunsten der Erfüllungsgehilfen des Lizenzgebers.
+13.3 Gegenüber Unternehmern, juristischen Personen des öffentlichen Rechts und öffentlich-rechtlichen Sondervermögen ist die Haftung nach Ziffer 13.2 der Höhe nach begrenzt auf die Lizenzvergütung, die der Lizenznehmer für die betroffene Lizenz gezahlt hat. Bei befristeten Lizenzen ist das die Vergütung für die zwölf Monate vor dem schadensauslösenden Ereignis, bei unbefristeten Lizenzen die einmalige Lizenzvergütung.
+
+13.4 Bei der kostenfreien Nutzung nach Ziffer 2 haftet der Lizenzgeber nur für Vorsatz, grobe Fahrlässigkeit und arglistig verschwiegene Mängel. Ziffer 13.1 bleibt unberührt.
+
+13.5 Im Übrigen ist die Haftung ausgeschlossen, insbesondere für Schäden, die entstehen, weil Ergebnisse ohne die nach Ziffer 11.2 geschuldete Prüfung weitergegeben wurden. Die Haftungsbeschränkungen gelten auch zugunsten der Erfüllungsgehilfen des Lizenzgebers.
 
 ## 14. Beendigung
 
