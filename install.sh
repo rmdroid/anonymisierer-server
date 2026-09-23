@@ -18,7 +18,7 @@ warn() { printf '\033[33m%s\033[0m\n' "$*"; }
 die()  { printf '\033[31m%s\033[0m\n' "$*" >&2; exit 1; }
 
 step "KI-Anonymisierer Server"
-say  "Lokale Anonymisierung fuer Chrome-Erweiterung und Windows-Agent."
+say  "Lokale Anonymisierung fuer Chrome-Erweiterung und Windows-Client."
 
 # ---------------------------------------------------------------- Vorbedingungen
 step "Voraussetzungen pruefen"
@@ -127,7 +127,7 @@ if [ ! -f .env ]; then
 ENGINES=${ENGINES}
 
 # --- Mehrbenutzerbetrieb (lizenzpflichtig) -------------------------
-# Mehrere Arbeitsplaetze oder der Windows-Agent greifen auf diesen
+# Mehrere Arbeitsplaetze oder der Windows-Client greifen auf diesen
 # Server zu. Dafuer zusaetzlich in docker-compose.yml das "127.0.0.1:"
 # vor dem Port entfernen.
 #

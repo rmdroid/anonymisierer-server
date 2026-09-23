@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
 # Schaltet den Mehrbenutzerbetrieb ein: mehrere Arbeitsplaetze oder der
-# Windows-Agent greifen auf diesen Server zu.
+# Windows-Client greifen auf diesen Server zu.
 #
 # Setzt voraus, dass ein gueltiger Lizenzschluessel vorliegt. Der
 # Einzelplatzbetrieb auf dem eigenen Rechner ist kostenfrei und braucht
@@ -121,7 +121,7 @@ say "  Zugriffsschluessel:"
 say "      ${APIKEY}"
 say ""
 say "  Beides in der Chrome-Erweiterung unter 'Anonymisierungsserver'"
-say "  eintragen, ebenso im Windows-Agent."
+say "  eintragen, ebenso im Windows-Client."
 say ""
 warn "  Der Server ist jetzt im Netzwerk erreichbar. Ohne den"
 warn "  Zugriffsschluessel kommt niemand an die Einstellungen, aber"

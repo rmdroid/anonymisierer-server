@@ -2,14 +2,14 @@
 
 Der Einzelplatzbetrieb auf dem eigenen Rechner ist kostenfrei und braucht
 keine Bestellung. Eine Lizenz wird erst nötig, wenn mehrere Arbeitsplätze auf
-denselben Server zugreifen oder der Windows-Agent im Mehrbenutzerbetrieb läuft.
+denselben Server zugreifen oder der Windows-Client im Mehrbenutzerbetrieb läuft.
 
 ## Was Sie erhalten
 
 - Signierter Lizenzschlüssel für die vereinbarte Zahl an Arbeitsplätzen
 - Freischaltung des Netzwerkbetriebs
-- Nutzung des Windows-Agents in der Mehrbenutzerfassung
-- Aktualisierungen für die Laufzeit der Lizenz
+- Nutzung des Windows-Clients in der Mehrbenutzerfassung
+- Aktualisierungen für die Laufzeit der Lizenz (bei unbefristeten Lizenzen 12 Monate)
 
 ## Bestellung
 
@@ -25,7 +25,7 @@ USt-IdNr. (falls vorhanden):
 
 Zahl der Arbeitsplätze:
 Laufzeit:            [ ] 1 Jahr   [ ] unbefristet
-Windows-Agent:       [ ] ja       [ ] nein
+Windows-Client:      [ ] ja       [ ] nein
 ```
 
 Sie erhalten ein Angebot. Nach Zahlungseingang wird der Lizenzschlüssel per

@@ -4,7 +4,7 @@ Erkennt personenbezogene Daten in Texten — vollständig auf Ihrer eigenen
 Hardware. Keine Cloud, kein Drittanbieter, kein Datenabfluss.
 
 Gehört zum [KI-Anonymisierer](https://ki-anonymisierer.de). Die
-Chrome-Erweiterung und der Windows-Agent nutzen ihn als Erkennungsschicht.
+Chrome-Erweiterung und der Windows-Client nutzen ihn als Erkennungsschicht.
 
 ## Einrichten
 
@@ -77,7 +77,7 @@ Fällt der Server aus, arbeitet die Erweiterung mit ihren eigenen Regeln weiter.
 ## Wie die Daten laufen
 
 ```
-Chrome / Windows-Agent
+Chrome / Windows-Client
         │
         │  nur im eigenen Netz
         ▼
@@ -107,9 +107,9 @@ Niemals der Text selbst.
 Zeitbegrenzung, voller Funktionsumfang.
 
 **Mehrere Arbeitsplätze: lizenzpflichtig.** Sobald mehrere Geräte auf denselben
-Server zugreifen oder der Windows-Agent im Mehrbenutzerbetrieb läuft.
+Server zugreifen oder der Windows-Client im Mehrbenutzerbetrieb läuft.
 
-Einzelheiten in [EULA.md](EULA.md), Bestellung über
+Einzelheiten in [EULA.md](EULA.md) ([English](EULA_en.md)), Bestellung über
 [BESTELLUNG.md](BESTELLUNG.md).
 
 Der Schlüssel wird lokal geprüft. Keine Onlineaktivierung, keine Übertragung.
