@@ -2,7 +2,7 @@
 
 **KI-Anonymisierer Server and KI-Anonymisierer Windows Client**  
 Licensor: Robert Meyer, c/o Online-Impressum.de #4759, Europaring 90, 53757 Sankt Augustin, Germany, email: rm@kostenmanager.net (“Licensor”)  
-Last updated: September 2026 · Version 1.2
+Last updated: September 2026 · Version 1.3
 
 *This English version is provided for convenience. In case of doubt, the German version prevails.*
 
@@ -39,6 +39,8 @@ Use is free of charge if the server runs on the same device on which the accessi
 5.2 Perpetual license: the right of use is unlimited in time. Updates are provided for twelve months from issue of the license key; further updates can be purchased separately. The most recently provided version may continue to be used indefinitely.
 
 5.3 When a fixed-term license expires, the right to multi-user operation ends. Free single-seat use under section 2 remains unaffected.
+
+5.4 Trial: On request, free test access with a term of 30 days is provided, as a trial key for your own server or as access to a test server operated by the Licensor. It serves exclusively for evaluation and ends automatically. There is no data processing agreement for access to the test server; real personal data must not be processed there. There is no entitlement to repeated trials.
 
 ## 6. Scope of rights
 
@@ -94,7 +96,7 @@ The image contains third-party software under its respective licenses, including
 
 13.3 Towards businesses, legal entities under public law and special funds under public law, liability under section 13.2 is limited in amount to the license fee the Licensee has paid for the affected license. For fixed-term licenses, this is the fee for the twelve months preceding the event causing the damage; for perpetual licenses, the one-time license fee.
 
-13.4 For free use under section 2, the Licensor is only liable for intent, gross negligence and fraudulently concealed defects. Section 13.1 remains unaffected.
+13.4 For free use under section 2 and for the trial under section 5.4, the Licensor is only liable for intent, gross negligence and fraudulently concealed defects. Section 13.1 remains unaffected.
 
 13.5 Otherwise, liability is excluded, in particular for damage arising because results were shared without the review required under section 11.2. These limitations also apply in favor of the Licensor’s vicarious agents.
 

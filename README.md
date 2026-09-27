@@ -109,6 +109,10 @@ Zeitbegrenzung, voller Funktionsumfang.
 **Mehrere Arbeitsplätze: lizenzpflichtig.** Sobald mehrere Geräte auf denselben
 Server zugreifen oder der Windows-Client im Mehrbenutzerbetrieb läuft.
 
+**30 Tage kostenlos testen:** als Testschlüssel für den eigenen Server oder
+über unseren Testserver, siehe [BESTELLUNG.md](BESTELLUNG.md). Der
+Windows-Client ist kostenlos.
+
 Einzelheiten in [EULA.md](EULA.md) ([English](EULA_en.md)), Bestellung über
 [BESTELLUNG.md](BESTELLUNG.md).
 

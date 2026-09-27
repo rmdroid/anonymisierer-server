@@ -2,7 +2,7 @@
 
 **KI-Anonymisierer Server und KI-Anonymisierer Windows-Client**  
 Lizenzgeber: Robert Meyer, c/o Online-Impressum.de #4759, Europaring 90, 53757 Sankt Augustin, Deutschland, E-Mail: rm@kostenmanager.net (nachfolgend „Lizenzgeber“)  
-Stand: September 2026 · Fassung 1.2
+Stand: September 2026 · Fassung 1.3
 
 ## 1. Geltungsbereich und Vertragsgegenstand
 
@@ -37,6 +37,8 @@ Die Nutzung ist kostenfrei, wenn der Server auf demselben Gerät läuft, auf dem
 5.2 Unbefristete Lizenz: Das Nutzungsrecht ist zeitlich unbegrenzt. Updates werden für zwölf Monate ab Ausstellung des Lizenzschlüssels bereitgestellt; danach können weitere Updates gesondert erworben werden. Die zuletzt bereitgestellte Version darf unbefristet weiter genutzt werden.
 
 5.3 Nach Ablauf einer befristeten Lizenz endet das Recht zum Mehrbenutzerbetrieb. Die kostenfreie Einzelplatznutzung nach Ziffer 2 bleibt unberührt.
+
+5.4 Test: Auf Anfrage wird ein kostenloser Testzugang mit einer Laufzeit von 30 Tagen bereitgestellt, als Testschlüssel für den eigenen Server oder als Zugang zu einem vom Lizenzgeber betriebenen Testserver. Er dient ausschließlich der Erprobung und endet automatisch. Für den Zugang zum Testserver besteht kein Auftragsverarbeitungsvertrag; echte personenbezogene Daten dürfen dort nicht verarbeitet werden. Ein Anspruch auf wiederholte Testzugänge besteht nicht.
 
 ## 6. Umfang der Rechte
 
@@ -92,7 +94,7 @@ Das Abbild enthält Software Dritter unter deren jeweiligen Lizenzen, darunter d
 
 13.3 Gegenüber Unternehmern, juristischen Personen des öffentlichen Rechts und öffentlich-rechtlichen Sondervermögen ist die Haftung nach Ziffer 13.2 der Höhe nach begrenzt auf die Lizenzvergütung, die der Lizenznehmer für die betroffene Lizenz gezahlt hat. Bei befristeten Lizenzen ist das die Vergütung für die zwölf Monate vor dem schadensauslösenden Ereignis, bei unbefristeten Lizenzen die einmalige Lizenzvergütung.
 
-13.4 Bei der kostenfreien Nutzung nach Ziffer 2 haftet der Lizenzgeber nur für Vorsatz, grobe Fahrlässigkeit und arglistig verschwiegene Mängel. Ziffer 13.1 bleibt unberührt.
+13.4 Bei der kostenfreien Nutzung nach Ziffer 2 und beim Test nach Ziffer 5.4 haftet der Lizenzgeber nur für Vorsatz, grobe Fahrlässigkeit und arglistig verschwiegene Mängel. Ziffer 13.1 bleibt unberührt.
 
 13.5 Im Übrigen ist die Haftung ausgeschlossen, insbesondere für Schäden, die entstehen, weil Ergebnisse ohne die nach Ziffer 11.2 geschuldete Prüfung weitergegeben wurden. Die Haftungsbeschränkungen gelten auch zugunsten der Erfüllungsgehilfen des Lizenzgebers.
 

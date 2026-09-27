@@ -4,6 +4,19 @@ Der Einzelplatzbetrieb auf dem eigenen Rechner ist kostenfrei und braucht
 keine Bestellung. Eine Lizenz wird erst nötig, wenn mehrere Arbeitsplätze auf
 denselben Server zugreifen oder der Windows-Client im Mehrbenutzerbetrieb läuft.
 
+## 30 Tage kostenlos testen
+
+Kostenlos, voller Funktionsumfang, ohne Verpflichtung: als Testschlüssel für
+den eigenen Server oder als Zugang zu unserem Testserver, mit dem Sie die
+Erkennung ohne Installation über die Chrome-Erweiterung prüfen.
+
+Anfrage über https://anonymisierer-tools.de/#testzugang oder an
+**rm@kostenmanager.net**. Für den Testserver gilt: nur erfundene Daten, es
+besteht kein Auftragsverarbeitungsvertrag.
+
+Der Windows-Client ist kostenlos. Lizenziert werden die Arbeitsplätze am
+Server.
+
 ## Was Sie erhalten
 
 - Signierter Lizenzschlüssel für die vereinbarte Zahl an Arbeitsplätzen
